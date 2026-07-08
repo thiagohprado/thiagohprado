@@ -42,8 +42,6 @@ Tenho base s√≥lida em infraestrutura, ambientes em nuvem, Infraestrutura como C√
 
 [Ansible](https://docs.ansible.com/)
 
-[Docker](https://docker.com/)
-
 [Kubernetes](https://kubernetes.io/pt-br/)
   
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io/)
