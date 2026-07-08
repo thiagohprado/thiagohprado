@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **thiagohprado/thiagohprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Olá, eu sou o Thiago Prado 👋
+
+Engenheiro Cloud focado em implementar soluções com infraestrutura robustas, escaláveis e automatizadas.
+
+Tenho base sólida em infraestrutura, ambientes em nuvem, Infraestrutura como Código e cultura DevOps.
+
+🔭 Atualmente estou trabalhando em uma empresa prestando consultoria e implementando ambientes em nuvem.
+
+🌱 No momento estou aprofundando meus conhecimentos para desenvolver novas soluções conforme demandas e idéias que vão surgindo.
+
+💬 Pergunte-me sobre: Cloud Assessment, IaC, CI/CD e boas práticas de arquitetura.
+
+⚡ Curiosidade: Gosto de esportes para melhorar a saúde e a qualidade de vida, no momento faço trilhas e corrida.
+
+## 🎓 Estudos: 
+- Graduação em Redes de Computadores pela Unicesumar
+
+## 📜 Certificações:
+- Google Cloud Digital Leader Certification
+- Google Associate Cloud Engineer Certification
+- Oracle Certified Foundations Associate
+- Microsoft Certified: Azure Fundamentals
+
+## 🛠️ Tecnologias:
+
+- Linux
+- Ansible
+- Docker
+- Kubernetes
+  
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagohprado/)
+
